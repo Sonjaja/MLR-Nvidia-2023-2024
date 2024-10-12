@@ -42,6 +42,6 @@ simply using the avg value of the target variable for all predictions.
 - Each additional feature needs to add enough marginal r value that it’s worth the tradeoff of overfitting.
 
 ## Limitations
-- I did not want to pay for services or subscriptions to obtain data, so I was limited on my options for my features.
-- Inconsistent timeframe, yahoofinance allows any timeframe of datasets, so my dataset could've been longer than a year, but my other features are limited, even one year timeframe was stretching and possibly created inconsistent time data.
-- limitation of time, since this project was just to showcase my knowledge, I did not want to invest too much time looking into other resources for other features, or longer timeframe of datasets.
+- **Data Accessibility**: Due to budget constraints, I opted not to pay for services or subscriptions to obtain data. Consequently, my options for features were limited.
+- **Inconsistent Timeframe**: Yahoo Finance allows for flexible timeframes for datasets. While my dataset could have spanned more than a year, other features were restricted. Even a one-year timeframe was challenging and may have introduced inconsistencies in the time data.
+- **Time Constraints**: This project was intended to showcase my knowledge. Therefore, I chose not to invest excessive time in exploring additional resources or extending the timeframe of datasets.
