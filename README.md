@@ -6,29 +6,42 @@
 #### [Data Sources](#Data-sources)
 #### [Tools](#Tools)
 #### [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+#### [Author's Note](#Author's-Note)
 #### [Results/Findings](#Results/Findings)
 #### [Recommendations](#Recommendations)
 #### [Limitations](#Limitations)
 
 ## Project Overview
-Demonstrating the process of creating a MLR model with limited resources for features.
+Objective of this project is to demonstrate my comprehension of MLR and the process it involves to create the MLR model with limited resources for features.
 
 ## Data Sources
-- Yahoo Finance 
+- Yahoo Finance
+- SEC 10k form for revenue and PE ratio
 
 ## Tools
-- Excel spreadsheet [Download Here]
-
+- Excel spreadsheet [Download Here](link to spreadsheet later)
 - Jupyter Notebook
 
 ## Exploratory Data Analysis
 
 
+## Author's Note
+- This project was for learning purposes and showcasing the concept of MLR.
+- As depicted in the plots, I conclude that this model is not very accurate in terms of predicting the price of Nvidia.
+  
 ## Results / Findings
-
+- High correlation values among features indicate significant multicollinearity.
+- Negative R-sqaured value suggests that the model's predictions are less accurate than
+simply using the avg value of the target variable for all predictions.
+- Plotting shows the features didn't fit with the model very well.
+- The model is not suitable for the data,or the data itself have issues. (Probably mix of both)
 
 ## Recommendations
-
+- Use longer timeframe than 1 year to have more valuable datasets.
+- Remove the features that have high Correlation values to other features.
+- Each additional feature needs to add enough marginal r value that it’s worth the tradeoff of overfitting.
 
 ## Limitations
-
+- I did not want to pay for services or subscriptions to obtain data, so I was limited on my options for my features.
+- Inconsistent timeframe, yahoofinance allows any timeframe of datasets, so my dataset could've been longer than a year, but my other features are limited, even one year timeframe was stretching and possibly created inconsistent time data.
+- limitation of time, since this project was just to showcase my knowledge, I did not want to invest too much time looking into other resources for other features, or longer timeframe of datasets.
