@@ -5,6 +5,7 @@
 #### [Project Overview](#Project-Overview)
 #### [Data Sources](#Data-sources)
 #### [Tools](#Tools)
+#### [Data Cleaning](#Data-Cleaning)
 #### [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 #### [Author's Note](#Author's-Note)
 #### [Results/Findings](#Results/Findings)
@@ -21,6 +22,14 @@ Objective of this project is to demonstrate my comprehension of MLR and the proc
 ## Tools
 - Excel spreadsheet [Download Here](link to spreadsheet later)
 - Jupyter Notebook
+
+## Data Cleaning
+1. Data loading and inspection
+2. Adding the column PE_Ratio and Revenue obtained from the 10k form on Excel
+3. Sorting date column to ascending order to avoid forward bias
+4. Creating RSI, SMA, and Bollinger Band by calculation with existing data
+5. drop the rows with missing values
+6. ensure the datatypes are all numerical
 
 ## Exploratory Data Analysis
 
