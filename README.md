@@ -6,7 +6,6 @@
 #### [Data Sources](#Data-sources)
 #### [Tools](#Tools)
 #### [Data Cleaning](#Data-Cleaning)
-#### [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 #### [Author's Note](#Author's-Note)
 #### [Results/Findings](#Results/Findings)
 #### [Recommendations](#Recommendations)
@@ -30,9 +29,6 @@ Objective of this project is to demonstrate my comprehension of MLR and the proc
 4. Creating RSI, SMA, and Bollinger Band by calculation with existing data
 5. drop the rows with missing values
 6. ensure the datatypes are all numerical
-
-## Exploratory Data Analysis
-
 
 ## Author's Note
 - This project was for learning purposes and showcasing the concept of MLR.
