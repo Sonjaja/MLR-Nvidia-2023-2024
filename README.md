@@ -11,7 +11,8 @@
 #### [Recommendations](#Recommendations)
 #### [Limitations](#Limitations)
 
-## Project Overview <a name="Project-Overview"></a>
+
+## Project Overview <div id='Project-Overview'/>
 Objective of this project is to demonstrate my comprehension of MLR and the process it involves to create the MLR model with limited resources for features.
 
 ## Data Sources <a name="Project-Overview"></a>
