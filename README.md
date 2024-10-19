@@ -42,7 +42,7 @@ simply using the avg value of the target variable for all predictions.
 - Plotting shows the features didn't fit with the model very well.
 - The model is not suitable for the data,or the data itself have issues. (Probably mix of both)
 
-## Recommendations <a name="Recommendation"></a>
+## Recommendations <div id='Recommendations'/>
 - Use longer timeframe than 1 year to have more valuable datasets.
 - Remove the features that have high Correlation values to other features.
 - Each additional feature needs to add enough marginal r value that it’s worth the tradeoff of overfitting.
