@@ -19,7 +19,7 @@ Objective of this project is to demonstrate my comprehension of MLR and the proc
 - SEC 10k form for revenue and PE ratio
 
 ## Tools
-- Excel spreadsheet [Download Here](#Sept 2023 - 2024 Nvidia price.csv)
+- Excel spreadsheet [Download Here]([#Sept 2023 - 2024 Nvidia price.csv](https://github.com/Sonjaja/MLR-Nvidia-2023-2024/blob/main/Sept%202023%20-%202024%20Nvidia%20price.csv))
 - Jupyter Notebook
 
 ## Data Cleaning
